@@ -1,0 +1,25 @@
+* 
+
+{
+    background: linear-gradient(to left, #2d138a 25%, rgb(24, 41, 192) 45%, rgb(12, 28, 168) 65%, black 95%);
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 
+
+{
+    background-color: black;
+    font-size: 2rem;
+    color: #FFF;
+    text-align: center;
+    padding: 0.5em;
+}
+
+h3 
+
+{
+    background-color: black;
+    color: #FFF;
+    text-align: center;
+    padding: 0.5em;
+}
